@@ -13,7 +13,7 @@ Team Members
 5-Michael Raouf
 
 
-Project Plan
+Project Plan:_
 
 1- Knowledge Base Reasearch.
 2- AI Prompt Creation.
@@ -24,9 +24,9 @@ Project Plan
 7- Data Visualisng.
 8- Documentation.
 9- Reviews.
-10- Presentation
+10- Presentation.
 
 
 Instructor: Abd-Alrahman Ashour
 
-Project File via "https://github.com/depigrouptalent-coder/Graduation-project"
+Project Files available via "https://github.com/depigrouptalent-coder/Graduation-project"
